@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "TestEmployee",
+            "request": "launch",
+            "mainClass": "com.example.PackageChallenge.TestEmployee",
+            "projectName": "Packages1_1c085dee"
+        },
+        {
+            "type": "java",
+            "name": "Customer",
+            "request": "launch",
+            "mainClass": "com.example.challenge.Customer",
+            "projectName": "Packages1_1c085dee"
+        },
+        {
+            "type": "java",
+            "name": "Calculator",
+            "request": "launch",
+            "mainClass": "com.example.utils.Calculator",
+            "projectName": "Packages1_1c085dee"
+        },
+        {
+            "type": "java",
+            "name": "Run Calculator",
+            "request": "launch",
+            "mainClass": "com.example.utils.Calculator",
+            "projectName": "Packages1"
+        }
+    ]
+}
